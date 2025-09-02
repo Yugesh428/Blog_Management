@@ -20,6 +20,7 @@ A RESTful API for managing blogs and categories, built using Node.js, Express, a
 
 ## 📂 Project Structure
 
+````text
 BLOG/
 │
 ├── src/
@@ -67,7 +68,7 @@ DB_PORT=Your database port
 4. Start the backend with:
    ```bash
    npm start
-   ```
+````
 
 ## Installation
 
