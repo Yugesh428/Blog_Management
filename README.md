@@ -25,17 +25,17 @@ BLOG/
 │
 ├── src/
 │ ├── controller/
-│ │ ├── blog/ # Blog controllers
-│ │ └── category/ # Category controllers
+│ │ ├── blog/blogController # Blog controllers
+│ │ └── category/categoryController # Category controllers
 │ │
 │ ├── model/
-│ │ ├── blog/ # Blog model
-│ │ ├── category/ # Category model
+│ │ ├── blog/blogModel # Blog model
+│ │ ├── category/categoryModel # Category model
 │ │ └── connection.ts # DB connection
 │ │
 │ ├── routes/
-│ │ ├── blog/ # Blog routes
-│ │ └── category/ # Category routes
+│ │ ├── blog/blogRoutes # Blog routes
+│ │ └── category/categoryRoutes # Category routes
 │ │
 │ └── app.ts # Express app setup
 │
