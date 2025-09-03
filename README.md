@@ -15,7 +15,7 @@ A RESTful API for managing blogs and categories, built using Node.js, Express, a
 - Node.js
 - Express.js
 - Sequelize
-- MySQL / SQLite
+- MySQL 
 - Postman (for API testing)
 
 ## 📂 Project Structure
@@ -74,5 +74,5 @@ DB_PORT=Your database port
 
 1. Clone the repository:
    ```bash
-   git clone <your-github-repo-link>
+   git clone <https://github.com/Yugesh428/Blog_Management>
    ```
